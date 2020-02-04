@@ -1,0 +1,6 @@
+/Users/enrickdemunter/Projects/51OefNamen/OefNamen/bin/Debug/OefNamen.exe
+/Users/enrickdemunter/Projects/51OefNamen/OefNamen/bin/Debug/OefNamen.pdb
+/Users/enrickdemunter/Projects/51OefNamen/OefNamen/obj/Debug/OefNamen.csprojAssemblyReference.cache
+/Users/enrickdemunter/Projects/51OefNamen/OefNamen/obj/Debug/OefNamen.csproj.CoreCompileInputs.cache
+/Users/enrickdemunter/Projects/51OefNamen/OefNamen/obj/Debug/OefNamen.exe
+/Users/enrickdemunter/Projects/51OefNamen/OefNamen/obj/Debug/OefNamen.pdb
